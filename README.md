@@ -1,45 +1,55 @@
 <div align="center">
 
-  <!-- Top Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0d9488&height=140&section=header" width="100%" />
+<sub>◈ &nbsp; PERSONAL FIELD NOTES &nbsp; / &nbsp; INTELLIGENT SYSTEMS</sub>
 
-  # Hey, I'm Sameer Bansal 👋
+# S A M E E R &nbsp; B A N S A L
 
-  **Computer Science & Engineering Undergraduate**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=F59E0B&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=From+data+to+understanding.;From+logic+to+intelligence.;Always+in+learning+mode." alt="From data to understanding. From logic to intelligence. Always in learning mode." />
 
-  <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Software+Engineering;Machine+Learning+%26+AI;System+Design+%26+Algorithms;Full-Stack+Development" alt="Typing SVG" />
+`B.E. — Artificial Intelligence & Machine Learning`  
+**Chitkara University**
 
-  <br/>
-
-  <!-- Badges -->
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL_ME-1E293B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-0F766E?style=for-the-badge" />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
+## 01 / The big question
+
+> What happens when a machine is no longer just following instructions, but learning from experience?
+
+That's the kind of question that draws me to artificial intelligence. I'm an undergraduate exploring the space where mathematics, computation and human curiosity meet. I'm interested in understanding the ideas behind intelligent systems — not simply using them.
+
+## 02 / Inside my research radar
+
+| Signal | What intrigues me |
+| :--- | :--- |
+| `01` · Machine Intelligence | How learning systems make decisions and generalize. |
+| `02` · Data & Mathematics | The patterns, probability and logic behind predictions. |
+| `03` · Computational Thinking | How complex problems become structured solutions. |
+| `04` · Emerging Computing | How intelligent technology might shape the future. |
+
+## 03 / System overview
+
+```text
+┌─ sameer@learning-lab ─────────────────────┐
+│                                          │
+│  DISCIPLINE    Artificial Intelligence   │
+│  FOCUS         Machine Learning          │
+│  APPROACH      Understand the why        │
+│  STATUS        Exploring & learning      │
+│                                          │
+│  > next_iteration: in progress...        │
+└──────────────────────────────────────────┘
+```
+
+I see learning as an iterative process: ask a question, challenge an assumption, make a mistake, and return with a better understanding. The most interesting part isn't having every answer — it's discovering which questions are worth asking.
+
 ---
 
-### 🧠 Beyond the Code
+<div align="center">
 
-I'm a B.Tech CSE undergraduate passionate about the mathematics, logic, and engineering behind intelligent and scalable systems. I enjoy breaking down complex problems into clean, maintainable architectures and turning ideas into practical software.
+**THE NEXT ITERATION IS ALWAYS BETTER.**
 
-### 🔭 My Current Exploration
+<sub>Independent thinking &nbsp; · &nbsp; Continuous learning &nbsp; · &nbsp; Meaningful progress</sub>
 
-| Domain | What I Focus On |
-| :--- | :--- |
-| 🤖 **Artificial Intelligence** | Building RAG pipelines, autonomous agents, and intelligent workflows |
-| 📊 **Machine Learning** | Feature engineering, ensemble models, and deep learning with CNNs |
-| 🧩 **Algorithms & Problem Solving** | Data structures, dynamic programming, and graph algorithms in Java & C++ |
-| 🏗️ **System Design** | Distributed architectures, ACID transactions, and high-throughput APIs |
-| 🌐 **Full-Stack Engineering** | Responsive web applications using modern JavaScript and backend databases |
-
-### 💻 The Mindset
-
-```python
-while True:
-    learn()
-    build()
-    break_things()
-    improve()
+</div>
